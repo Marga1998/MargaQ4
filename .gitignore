@@ -1,1 +1,7 @@
 /Debug/
+.settings/
+.cproject
+.gitignore
+.project
+build.properties
+build.xml
